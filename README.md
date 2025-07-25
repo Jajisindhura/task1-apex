@@ -61,7 +61,8 @@
   <!-- ✅ Real image (can be changed to anything) -->
   <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80" alt="Welcome Image" />
   
-  <button onclick="showMessage()">Click Me!</button>
+  <button onclick="showMessage()">Click Me!
+  </button>
 
   <script>
     function showMessage() {
